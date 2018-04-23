@@ -1,7 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Coffeeee
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
@@ -98,4 +97,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: some description
+      items:
+        - all of them
+      plan: OMG
+      price: '99'
 ---
+
